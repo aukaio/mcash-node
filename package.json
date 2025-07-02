@@ -9,7 +9,7 @@
   "dependencies": {
     "lodash": "2.4.1",
     "konfu": "1.1.5",
-    "minimist": "0.2.0",
+    "minimist": "1.2.6",
     "superagent": "0.18.0",
     "body-parser": "1.4.3",
     "debug": "1.0.2"
