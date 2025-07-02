@@ -11,7 +11,7 @@
     "konfu": "1.1.5",
     "minimist": "0.2.0",
     "superagent": "0.18.0",
-    "body-parser": "1.4.3",
+    "body-parser": "1.20.3",
     "debug": "1.0.2"
   },
   "devDependencies": {
